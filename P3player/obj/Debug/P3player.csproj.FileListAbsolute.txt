@@ -1,0 +1,15 @@
+G:\VS程序包\P3player\P3player\bin\Debug\P3player.exe.config
+G:\VS程序包\P3player\P3player\bin\Debug\P3player.exe
+G:\VS程序包\P3player\P3player\bin\Debug\P3player.pdb
+G:\VS程序包\P3player\P3player\obj\Debug\P3player.Properties.Resources.resources
+G:\VS程序包\P3player\P3player\obj\Debug\P3player.csproj.GenerateResource.Cache
+G:\VS程序包\P3player\P3player\obj\Debug\P3player.csproj.CoreCompileInputs.cache
+G:\VS程序包\P3player\P3player\obj\Debug\P3player.exe
+G:\VS程序包\P3player\P3player\obj\Debug\P3player.pdb
+G:\VS程序包\P3player\P3player\obj\Debug\P3player.MainForm.resources
+G:\VS程序包\P3player\P3player\bin\Debug\Interop.WMPLib.dll
+G:\VS程序包\P3player\P3player\bin\Debug\AxInterop.WMPLib.dll
+G:\VS程序包\P3player\P3player\obj\Debug\Interop.WMPLib.dll
+G:\VS程序包\P3player\P3player\obj\Debug\AxInterop.WMPLib.dll
+G:\VS程序包\P3player\P3player\obj\Debug\P3player.csproj.ResolveComReference.cache
+G:\VS程序包\P3player\P3player\obj\Debug\P3player.csprojAssemblyReference.cache
